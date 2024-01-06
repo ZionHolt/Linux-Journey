@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# The following is an example of piping:
+# ls | less
+
+# The following is an example of piping and incorporating the tee command"
+ls | tee peanuts.txt

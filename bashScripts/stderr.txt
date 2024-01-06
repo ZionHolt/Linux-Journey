@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ls /fake/directory &> peanuts.txt
+# The command above gets the contents of a directory that doesn't exist and redirects the error message to the peanuts.txt file.
