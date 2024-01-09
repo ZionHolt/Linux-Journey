@@ -1,0 +1,10 @@
+book
+book
+reading
+reading
+paraphrase
+annotation
+pen
+pen
+pencil
+pencil
