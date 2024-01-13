@@ -1,0 +1,1 @@
+This is a sentence to mess with using the VIM text editor. This is an addition to the line using shift+A. Shortcuts sure are fun, huh?
