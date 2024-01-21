@@ -1,3 +1,1 @@
-This is a sentence.
-This is another sentence.
-This is an even longer sentence than before.
+One of these days, I will figure out why VIM is doing that. 
