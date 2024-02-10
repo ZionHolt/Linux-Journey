@@ -1,0 +1,7 @@
+4 = read
+2 = write
+1 = execute
+
+So, to give the user all permissions, you combine 4 + 2 + 1 = 7.
+To give only the user all permissions, you would do chmod 700.
+ 
