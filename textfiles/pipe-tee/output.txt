@@ -1,1 +1,9 @@
-output.txt
+cut-and-paste
+grep-regexes
+heads-and-tails
+joinAndSplit
+pipe-tee
+sorting
+standard-stuff
+unique
+VIM
