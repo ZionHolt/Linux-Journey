@@ -1,2 +1,2 @@
 This is the first sentence.
-Figured out why it was doing that. I can use ':noh' to clear the highlight from the search function.
+I figured out why it was doing that. I can use ':noh' to clear the highlight from the search function.
